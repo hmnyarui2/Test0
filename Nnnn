@@ -1,2 +1,4 @@
-int a
+int a = 202302178
 float b
+str a = "김태영"
+str b = "컴퓨터공학부"
